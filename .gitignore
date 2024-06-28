@@ -1,0 +1,7 @@
+# Logs
+logs
+*.log
+
+# Temporary folders
+tmp/
+temp/

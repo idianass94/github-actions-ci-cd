@@ -1,2 +1,14 @@
 # github-actions-ci-cd
-Depot pour gérer les workflows github actions pour formation Alphorm
+Ce dépôt contient des exemples de configurations CI/CD utilisant GitHub Actions. Il est destiné à une formation sur l'intégration continue et le déploiement continu (CI/CD).
+
+## Structure du dépôt
+
+- `.github/workflows/`: Contient les fichiers de workflow GitHub Actions.
+- `src/`: Contient le code source de l'application de démonstration.
+- `tests/`: Contient les tests automatisés.
+
+## Utilisation
+
+1. Clonez ce dépôt :
+   ```bash
+   git clone https://github.com/votre-utilisateur/github-actions-ci-cd.git
